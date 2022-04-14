@@ -844,17 +844,7 @@ html[xmlns] .slides { display: block; }
     margin: 6px 3px;
    }
 
-   /* стиль поля для текста */
-
-                      .textarea {
-            
-                       border: 2px solid #a9c358;
-                       padding: 10px; 
-                       width: 100%;
-                       height: 200px; 
-                       box-sizing: border-box; 
-                       font-size: 14px; 
-                      }
+   
                     
 
                      
