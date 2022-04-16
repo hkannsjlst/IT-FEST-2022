@@ -35,6 +35,7 @@ $("a[href*=#betates]").on("click", function (e) {
               e.preventDefault();
               return false;
               });
+              
             // Для работ галереи 
             $(document).ready(function () {
               $('.flexslider').flexslider({
@@ -44,8 +45,6 @@ $("a[href*=#betates]").on("click", function (e) {
             });
         
 
-
-            // Хз зачем
             
            
         
